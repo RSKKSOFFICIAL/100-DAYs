@@ -1,3 +1,6 @@
 here is the deep concept about types of languages and memory management.
 
  links : https://youtu.be/wn49bJOYAZM?feature=shared
+
+TIP: one language can be of many types of languages.
+eg-python 
