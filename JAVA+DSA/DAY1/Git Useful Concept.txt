@@ -1,0 +1,30 @@
+For cloning.
+
+1. Make sure that you're in some directory.
+if not;
+2: type cd D:/
+if yes ;
+3: git clone <-link->
+
+for status
+1: git status //check your status
+
+for checking list
+1: ls 
+2: ls -a //for hidden
+
+for adding
+1: git add <-file_name-> //for particular and must for the 1st time
+2: git add . //for all  file
+
+for commit
+1. git commit -m "write your own message"
+
+for push
+//adding local repo to remote repo
+
+1. git push origin main //anyone of these two for pushing in main
+2. git push.
+
+//these are the basiscs to make your git repository. if you want to learn more.
+//you can checkout the Day1(GIT).txt
