@@ -1,0 +1,17 @@
+JAVA Installation: https://youtu.be/4EP8YzcN0hQ?feature=shared
+
+STEPS:
+1. Download JDK(WINDOWS): https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe
+   Download JDK(MAC OS): https://download.oracle.com/java/21/latest/jdk-21_macos-x64_bin.dmg
+   Download JDK(LINUX): https://download.oracle.com/java/21/latest/jdk-21_linux-x64_bin.deb
+                                       OR 
+Download your own choice: https://www.oracle.com/java/technologies/downloads/#jdk21-linux
+ 
+                          FOR FREE VERSION  (COMMUNITY EDITION)
+2.  Download Intellij IDEA(WINDOWS): https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC
+    Download Intellij IDEA(MAC OS): https://www.jetbrains.com/idea/download/download-thanks.html?platform=mac&code=IIC
+    Download Intellij IDEA(LINUX): https://www.jetbrains.com/idea/download/download-thanks.html?platform=linux&code=IIC
+                          FOR PAID VERSION (ULTIMATE EDITION)
+2.  Download Intellij IDEA(WINDOWS): https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows
+    Download Intellij IDEA(MAC OS): https://www.jetbrains.com/idea/download/download-thanks.html?platform=mac
+    Download Intellij IDEA(LINUX): https://www.jetbrains.com/idea/download/download-thanks.html?platform=linux

@@ -1,0 +1,4 @@
+Today, I dived into the world of Java architecture and installed Java.
+If you're curious to explore these topics, check out the comprehensive tutorial I followed:
+
+Java Architecture and Installation: https://youtu.be/4EP8YzcN0hQ?feature=shared.
