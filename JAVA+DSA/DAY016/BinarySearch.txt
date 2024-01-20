@@ -1,0 +1,4 @@
+Unleashing the Power of Binary Search in Java! 🔍🚀 
+Discovering the efficiency and elegance of logarithmic time complexity.
+
+Resources: https://youtu.be/f6UU7V3szVw?feature=shared
